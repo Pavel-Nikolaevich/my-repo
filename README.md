@@ -1,28 +1,28 @@
 # my-repo — Git learning playground
 
 ![Badge](https://img.shields.io/badge/Git-learning-orange)
-> Репозиторий для **обучения Git**: ветвление, коммиты, `rebase`, `merge`, `stash`, PR-ы и др.
+> Repository for **learning Git**: branching, commits, `rebase`, `merge`, `stash`, PRs, and more.
 
-- [Цели](#цели)
-- [Быстрый старт](#быстрый-старт)
-- [Шпаргалка по командам](#шпаргалка-по-командам)
-- [Диаграмма Git Flow (картинка)](#диаграмма-git-flow-картинка)
-- [Mermaid диаграмма](#mermaid-диаграмма)
-- [Задачи](#задачи)
-- [Полезные ссылки](#полезные-ссылки)
-
----
-
-## Цели
-1. Освоить базовые и продвинутые операции в **Git**.
-2. Научиться безопасно менять историю (`rebase`/`fixup`/`squash`).
-3. Понимать стратегии ветвления (**Git Flow**, **Trunk Based Development**).
-
-> **Tip:** часто коммить → мелкие атомарные изменения → проще ревью и откаты.
+- [Goals](#goals)
+- [Quick Start](#quick-start)
+- [Command Cheat Sheet](#command-cheat-sheet)
+- [Git Flow Diagram (image)](#git-flow-diagram-image)
+- [Mermaid Diagram](#mermaid-diagram)
+- [Tasks](#tasks)
+- [Useful Links](#useful-links)
 
 ---
 
-## Быстрый старт
+## Goals
+1. Master basic and advanced operations in **Git**.
+2. Learn to safely change history (`rebase`/`fixup`/`squash`).
+3. Understand branching strategies (**Git Flow**, **Trunk Based Development**).
+
+> **Tip:** commit often → small atomic changes → easier review and rollback.
+
+---
+
+## Quick Start
 ```bash
 git clone https://github.com/pavel-nikolaevich/my-repo.git
 cd my-repo
