@@ -28,3 +28,5 @@ git clone https://github.com/pavel-nikolaevich/my-repo.git
 cd my-repo
 git status
 ```
+## Images
+![Digital signature](/docs/digital_signature.png)
