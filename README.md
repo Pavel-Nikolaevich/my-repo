@@ -29,4 +29,6 @@ cd my-repo
 git status
 ```
 ## Images
-![Digital signature](/docs/digital_signature.png)
+![Ambiguity — avoid](<img/Ambiguity(avoid).jpeg>)
+![Digital signature](img/digital_signature.png)
+![Git flow stages](img/git-flow-stages.png)
