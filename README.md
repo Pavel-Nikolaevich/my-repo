@@ -10,6 +10,7 @@
 - [Mermaid Diagram](#mermaid-diagram)
 - [Tasks](#tasks)
 - [Useful Links](#useful-links)
+- [Puzzle](#puzzle)
 
 ---
 
