@@ -32,4 +32,5 @@ git status
 ![Ambiguity — avoid](<img/Ambiguity(avoid).jpeg>)
 ![Digital signature](img/digital_signature.png)
 ![Git flow stages](img/git-flow-stages.png)
-## Bio/nSee [bio.md] for a short biography.
+
+## Bio See [bio.md] for a short biography.
